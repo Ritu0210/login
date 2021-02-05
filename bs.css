@@ -1,0 +1,26 @@
+body
+{
+	background-repeat:no-repeat;
+	background-image:url('g.jpg');
+	background-position:center center;
+	background-attachment:fixed;
+	background-size:cover;
+
+}
+.form
+{
+	margin-top:200px;
+margin-left:500px;
+}
+.button
+{
+
+margin-left:540px;
+}
+font
+{
+	font-size:25px;
+	font-family:Consolas;
+	color:white;
+	
+}
